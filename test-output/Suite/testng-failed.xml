@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="DataDoenloadFlows.Flow5">
+        <methods>
+          <include name="dataDown"/>
+          <include name="beforeTest"/>
+          <include name="login1"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow5 -->
+      <class name="DataDoenloadFlows.Flow12">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="login1"/>
+          <include name="dataDown"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow12 -->
+      <class name="DataDoenloadFlows.Flow2">
+        <methods>
+          <include name="login1"/>
+          <include name="beforeTest"/>
+          <include name="dataDown"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow2 -->
+      <class name="DataDoenloadFlows.Flow14">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="login1"/>
+          <include name="dataDown"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow14 -->
+      <class name="DataDoenloadFlows.Flow11">
+        <methods>
+          <include name="login1"/>
+          <include name="beforeTest"/>
+          <include name="dataDown"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow11 -->
+      <class name="DataDoenloadFlows.Flow6">
+        <methods>
+          <include name="dataDown"/>
+          <include name="beforeTest"/>
+          <include name="login1"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow6 -->
+      <class name="DataDoenloadFlows.Flow4">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="dataDown"/>
+          <include name="login1"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow4 -->
+      <class name="DataDoenloadFlows.Flow15">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="login1"/>
+          <include name="dataDown"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow15 -->
+      <class name="TestScenarios.TestMethodSalesManager">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="login1"/>
+        </methods>
+      </class> <!-- TestScenarios.TestMethodSalesManager -->
+      <class name="DataDoenloadFlows.Flow8">
+        <methods>
+          <include name="dataDown"/>
+          <include name="beforeTest"/>
+          <include name="login1"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow8 -->
+      <class name="DataDoenloadFlows.Flow1">
+        <methods>
+          <include name="login1"/>
+          <include name="beforeTest"/>
+          <include name="dataDown"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow1 -->
+      <class name="DataDoenloadFlows.Flow9">
+        <methods>
+          <include name="dataDown"/>
+          <include name="login1"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow9 -->
+      <class name="DataDoenloadFlows.Flow13">
+        <methods>
+          <include name="login1"/>
+          <include name="beforeTest"/>
+          <include name="dataDown"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow13 -->
+      <class name="DataDoenloadFlows.Flow3">
+        <methods>
+          <include name="login1"/>
+          <include name="dataDown"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow3 -->
+      <class name="DataDoenloadFlows.Flow10">
+        <methods>
+          <include name="login1"/>
+          <include name="beforeTest"/>
+          <include name="dataDown"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow10 -->
+      <class name="DataDoenloadFlows.Flow7">
+        <methods>
+          <include name="dataDown"/>
+          <include name="beforeTest"/>
+          <include name="login1"/>
+        </methods>
+      </class> <!-- DataDoenloadFlows.Flow7 -->
+      <class name="TestScenarios.TestMethodTelecaller">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="login1"/>
+        </methods>
+      </class> <!-- TestScenarios.TestMethodTelecaller -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

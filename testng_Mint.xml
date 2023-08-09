@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Mint_ManagementLogin_Suite">
+  <test thread-count="5" name="DataDownload">
+    <classes>
+      <class name="TestScenarios.TestMethodManagement"/>
+    </classes>
+  </test> <!-- DataDownload -->
+</suite> <!-- Mint_ManagementLogin_Suite -->
